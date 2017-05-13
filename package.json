@@ -23,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/jmichelin/curly-octo-fortnight/issues"
   },
-  "homepage": "https://github.com/jmichelin/curly-octo-fortnight#readme"
+  "homepage": "https://github.com/jmichelin/curly-octo-fortnight#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "2.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
