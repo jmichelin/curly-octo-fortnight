@@ -1,0 +1,27 @@
+{
+  "name": "learn-redux-ground-up",
+  "version": "1.0.0",
+  "description": "starting from core api on up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmichelin/curly-octo-fortnight.git"
+  },
+  "keywords": [
+    "learn",
+    "redux",
+    "from",
+    "the",
+    "ground",
+    "up"
+  ],
+  "author": "John Michelin <john@javascriptjohn.com> (http://www.javascriptjohn.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmichelin/curly-octo-fortnight/issues"
+  },
+  "homepage": "https://github.com/jmichelin/curly-octo-fortnight#readme"
+}
